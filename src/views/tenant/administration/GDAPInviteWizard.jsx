@@ -281,6 +281,21 @@ const GDAPInviteWizard = () => {
                 <li>M365 GDAP SharePoint Administrator</li>
                 <li>M365 GDAP Teams Administrator</li>
                 <li>M365 GDAP User Administrator</li>
+                <li>M365 GDAP Billing Administrator</li>
+                <li>M365 GDAP Cloud Application Administrator</li>
+                <li>M365 GDAP Compliance Administrator</li>
+                <li>M365 GDAP Directory Readers</li>
+                <li>M365 GDAP Directory Writers</li>
+                <li>M365 GDAP Domain Name Administrator</li>
+                <li>M365 GDAP Global Reader</li>
+                <li>M365 GDAP Groups Administrator</li>
+                <li>M365 GDAP Helpdesk Administrator</li>
+                <li>M365 GDAP License Administrator</li>
+                <li>M365 GDAP Power BI Administrator</li>
+                <li>M365 GDAP Power Platform Administrator</li>
+                <li>M365 GDAP Reports Reader</li>
+                <li>M365 GDAP Security Reader</li>
+                <li>M365 GDAP Service Support Administrator</li>
               </ul>
               Any other user that needs to gain access to your Microsoft CSP Tenants will need to be
               manually added to these groups.
@@ -411,6 +426,21 @@ const GDAPInviteWizard = () => {
                               <li>M365 GDAP SharePoint Administrator</li>
                               <li>M365 GDAP Teams Administrator</li>
                               <li>M365 GDAP User Administrator</li>
+                              <li>M365 GDAP Billing Administrator</li>
+                              <li>M365 GDAP Cloud Application Administrator</li>
+                              <li>M365 GDAP Compliance Administrator</li>
+                              <li>M365 GDAP Directory Readers</li>
+                              <li>M365 GDAP Directory Writers</li>
+                              <li>M365 GDAP Domain Name Administrator</li>
+                              <li>M365 GDAP Global Reader</li>
+                              <li>M365 GDAP Groups Administrator</li>
+                              <li>M365 GDAP Helpdesk Administrator</li>
+                              <li>M365 GDAP License Administrator</li>
+                              <li>M365 GDAP Power BI Administrator</li>
+                              <li>M365 GDAP Power Platform Administrator</li>
+                              <li>M365 GDAP Reports Reader</li>
+                              <li>M365 GDAP Security Reader</li>
+                              <li>M365 GDAP Service Support Administrator</li>
                             </ul>
                           </CCallout>
                         </>
