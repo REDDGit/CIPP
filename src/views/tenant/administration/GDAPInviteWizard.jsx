@@ -92,6 +92,67 @@ const GDAPInviteWizard = () => {
       Name: 'Application Administrator',
       ObjectId: '9b895d92-2cd3-44c7-9d02-a6ac2d5ea5c3',
     },
+    ///custom roles below
+    {
+      Name: 'Billing Administrator',
+      ObjectId: 'cc088c66-4b1f-4507-a093-c49cf4065c57',
+    },
+    {
+      Name: 'Cloud Application Administrator',
+      ObjectId: '6d2f2f7b-cedc-463c-8667-7e615c217643',
+    },
+    {
+      Name: 'Compliance Administrator',
+      ObjectId: '1259b1ed-37a7-46f9-b4ab-604e99cd7d45',
+    },
+    {
+      Name: 'Directory Readers',
+      ObjectId: '976e14f3-0ec6-4015-8c44-1887bdf0a2ac',
+    },
+    {
+      Name: 'Directory Writers',
+      ObjectId: '708eda64-86b0-4336-a54f-b7df8efe94f6',
+    },
+    {
+      Name: 'Domain Name Administrator',
+      ObjectId: 'c921a854-803d-4e9f-abbc-8d5b7b943ec0',
+    },
+    {
+      Name: 'Global Reader',
+      ObjectId: '2c8f1cd9-1f4c-44e2-9363-74687afa8612',
+    },
+    {
+      Name: 'Groups Administrator',
+      ObjectId: '715900d7-01d6-4c2e-8aa5-a38e7a79a43b',
+    },
+    {
+      Name: 'Helpdesk Administrator',
+      ObjectId: '4097186d-e6f4-4272-9fa0-752e494864c5',
+    },
+    {
+      Name: 'License Administrator',
+      ObjectId: '689495ab-091e-4a54-b3e0-8602080a72a0',
+    },
+    {
+      Name: 'Power BI Administrator',
+      ObjectId: 'afab32ce-961c-487d-a8d3-fe2de85417cc',
+    },
+    {
+      Name: 'Power Platform Administrator',
+      ObjectId: '3f0b91f6-a04c-4d83-895b-a02850faa632',
+    },
+    {
+      Name: 'Reports Reader',
+      ObjectId: '0a37d29c-7cfe-42cf-a945-b7fd622b77d6',
+    },
+    {
+      Name: 'Security Reader',
+      ObjectId: '1d8aafaa-5a01-47ad-adef-4421c77ab21e',
+    },
+    {
+      Name: 'Service Support Administrator',
+      ObjectId: '2a1c89e1-00a7-48ee-95d7-743521f5ffaf',
+    },
   ]
   const [inviteCount, setInviteCount] = useState(1)
   const [loopRunning, setLoopRunning] = React.useState(false)
