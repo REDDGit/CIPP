@@ -95,63 +95,63 @@ const GDAPInviteWizard = () => {
     ///custom roles below
     {
       Name: 'Billing Administrator',
-      ObjectId: 'cc088c66-4b1f-4507-a093-c49cf4065c57',
+      ObjectId: 'b0f54661-2d74-4c50-afa3-1ec803f12efe',
     },
     {
       Name: 'Cloud Application Administrator',
-      ObjectId: '6d2f2f7b-cedc-463c-8667-7e615c217643',
+      ObjectId: '158c047a-c907-4556-b7ef-446551a6b5f7',
     },
     {
       Name: 'Compliance Administrator',
-      ObjectId: '1259b1ed-37a7-46f9-b4ab-604e99cd7d45',
+      ObjectId: '17315797-102d-40b4-93e0-432062caca18',
     },
     {
       Name: 'Directory Readers',
-      ObjectId: '976e14f3-0ec6-4015-8c44-1887bdf0a2ac',
+      ObjectId: '88d8e3e3-8f55-4a1e-953a-9b9898b8876b',
     },
     {
       Name: 'Directory Writers',
-      ObjectId: '708eda64-86b0-4336-a54f-b7df8efe94f6',
+      ObjectId: '9360feb5-f418-4baa-8175-e2a00bac4301',
     },
     {
       Name: 'Domain Name Administrator',
-      ObjectId: 'c921a854-803d-4e9f-abbc-8d5b7b943ec0',
+      ObjectId: '8329153b-31d0-4727-b945-745eb3bc5f31',
     },
     {
       Name: 'Global Reader',
-      ObjectId: '2c8f1cd9-1f4c-44e2-9363-74687afa8612',
+      ObjectId: 'f2ef992c-3afb-46b9-b7cf-a126ee74c451',
     },
     {
       Name: 'Groups Administrator',
-      ObjectId: '715900d7-01d6-4c2e-8aa5-a38e7a79a43b',
+      ObjectId: 'fdd7a751-b60b-444a-984c-02652fe8fa1c',
     },
     {
       Name: 'Helpdesk Administrator',
-      ObjectId: '4097186d-e6f4-4272-9fa0-752e494864c5',
+      ObjectId: '729827e3-9c14-49f7-bb1b-9608f156bbb8',
     },
     {
       Name: 'License Administrator',
-      ObjectId: '689495ab-091e-4a54-b3e0-8602080a72a0',
+      ObjectId: '4d6ac14f-3453-41d0-bef9-a3e0c569773a',
     },
     {
       Name: 'Power BI Administrator',
-      ObjectId: 'afab32ce-961c-487d-a8d3-fe2de85417cc',
+      ObjectId: 'a9ea8996-122f-4c74-9520-8edcd192826c',
     },
     {
       Name: 'Power Platform Administrator',
-      ObjectId: '3f0b91f6-a04c-4d83-895b-a02850faa632',
+      ObjectId: '11648597-926c-4cf3-9c36-bcebb0ba8dcc',
     },
     {
       Name: 'Reports Reader',
-      ObjectId: '0a37d29c-7cfe-42cf-a945-b7fd622b77d6',
+      ObjectId: '75934031-6c7e-415a-99d7-48dbd49e875e',
     },
     {
       Name: 'Security Reader',
-      ObjectId: '1d8aafaa-5a01-47ad-adef-4421c77ab21e',
+      ObjectId: '5d6b6bb7-de71-4623-b4af-96380a352509',
     },
     {
       Name: 'Service Support Administrator',
-      ObjectId: '2a1c89e1-00a7-48ee-95d7-743521f5ffaf',
+      ObjectId: 'f023fd81-a637-4b56-95fd-791ac0226033',
     },
   ]
   const [inviteCount, setInviteCount] = useState(1)
